@@ -85,7 +85,7 @@ class TiketController extends Controller
                 'nama'=>$request->nama,
                 'email'=>$request->email,
                 'no_telfon'=>$request->no,
-                'status'=>1
+                'status'=>2
             ]
             );
 
